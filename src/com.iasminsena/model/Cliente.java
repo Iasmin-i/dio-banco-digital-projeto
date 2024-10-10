@@ -1,4 +1,4 @@
-
+package com.iasminsena.model;
 public class Cliente {
 
 	private String nome;
