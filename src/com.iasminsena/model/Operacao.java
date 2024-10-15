@@ -2,7 +2,7 @@ package com.iasminsena.model;
 
 import java.util.Scanner;
 
-public class Operacoes {
+public class Operacao {
     Scanner scanner = new Scanner(System.in);
     Cliente clienteDestino = new Cliente();
     Conta conta = new Conta(clienteDestino);
